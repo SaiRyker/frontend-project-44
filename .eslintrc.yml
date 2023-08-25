@@ -6,7 +6,6 @@ overrides: []
 
 extends:
   - 'airbnb-base'
-  - 'plugin-import'
 
 parserOptions:
   ecmaVersion: latest
@@ -14,6 +13,7 @@ parserOptions:
 
 rules: 
    no-console: 0
+   linebreak-style: 'off'
    import/extensions: # FIXME: remove when rule will be adjusted for new nodejs version
     - error
     - ignorePackages
