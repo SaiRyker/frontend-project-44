@@ -15,7 +15,7 @@ const gameProcess = (instructions, gameFunc) => {
       count += 1;
       console.log('Correct!');
     } else {
-      console.log(`"${answer}" is wrong answer ;(. Correct answer was "${corRes}".\nLet's try again,${name}!`);
+      console.log(`"${answer}" is wrong answer ;(. Correct answer was "${corRes}".\nLet's try again, ${name}!`);
       break;
     }
   }
