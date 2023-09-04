@@ -22,7 +22,10 @@ const makeProgressionArray = () => {
 
 const startGame = () => {
   const [array, result] = makeProgressionArray();
-  const question = `Question: ${array}`;
+  let question = 'Question:';
+  for (let i = 0; i < array.length; i += 1) {
+    question += ` ${array[i]}`;
+  }
   return [question, result];
 };
 const mainProcess = () => gameProcess(instructions, startGame);
