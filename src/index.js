@@ -5,6 +5,7 @@ const gameProcess = (instructions, gameFunc) => {
   const name = greeting();
   const amountOfRounds = 3;
   let count = 0;
+  console.log(instructions);
   while (count !== amountOfRounds) {
     const [question, corRes] = gameFunc();
     console.log(question);
