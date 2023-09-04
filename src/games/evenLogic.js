@@ -15,7 +15,7 @@ const isEven = (number) => {
 
 const startGame = () => {
   const number = getRandomNum(0, 100);
-  const question = `Question ${number}`;
+  const question = `Question: ${number}`;
   const even = isEven(number);
 
   return [question, even];
