@@ -20,7 +20,7 @@ const startGame = () => {
   const operators = ['+', '-', '*'];
   const [min, max] = [getRandomNum(0, 100), getRandomNum(0, 100)].sort();
   const selectedOperator = operators[getRandomNum(0, 3)];
-  const question = `${max} ${selectedOperator} ${min}`;
+  const question = `Question: ${max} ${selectedOperator} ${min}`;
   const result = getResult(min, max, selectedOperator);
 
   return [question, result];
