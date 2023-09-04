@@ -7,3 +7,5 @@
 [![asciicast](https://asciinema.org/a/606219.svg)](https://asciinema.org/a/606219)
 <bold>Brain-Gcd</bold>
 [![asciicast](https://asciinema.org/a/mGcT8waNLuXyOIQGd5gRlw3Rh.svg)](https://asciinema.org/a/mGcT8waNLuXyOIQGd5gRlw3Rh)
+<bold>Brain-Prog</bold>
+[![asciicast](https://asciinema.org/a/606227.svg)](https://asciinema.org/a/606227)
