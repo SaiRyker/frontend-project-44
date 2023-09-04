@@ -9,3 +9,5 @@
 [![asciicast](https://asciinema.org/a/mGcT8waNLuXyOIQGd5gRlw3Rh.svg)](https://asciinema.org/a/mGcT8waNLuXyOIQGd5gRlw3Rh)
 <bold>Brain-Prog</bold>
 [![asciicast](https://asciinema.org/a/606227.svg)](https://asciinema.org/a/606227)
+<bold>Brain-Prime</bold>
+[![asciicast](https://asciinema.org/a/606228.svg)](https://asciinema.org/a/606228)
